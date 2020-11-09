@@ -1,0 +1,9 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVoidDemo\bin\Debug\AsyncVoidDemo.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVoidDemo\obj\Debug\AsyncVoidDemo.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVoidDemo\obj\Debug\AsyncVoidDemo.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVoidDemo\bin\Debug\AsyncVoidDemo.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVoidDemo\bin\Debug\AsyncVoidDemo.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVoidDemo\obj\Debug\7 AsyncVoidDemo.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVoidDemo\obj\Debug\AsyncVoidDemo.frmMain.resources
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVoidDemo\obj\Debug\AsyncVoidDemo.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVoidDemo\obj\Debug\7 AsyncVoidDemo.csproj.GenerateResource.Cache

@@ -1,0 +1,17 @@
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseCustomEvent\bin\Debug\UseCustomEvent.exe.config
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseCustomEvent\bin\Debug\UseCustomEvent.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseCustomEvent\bin\Debug\UseCustomEvent.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseCustomEvent\obj\Debug\UseCustomEvent.frmMain.resources
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseCustomEvent\obj\Debug\UseCustomEvent.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseCustomEvent\obj\Debug\9_UseCustomEvent.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseCustomEvent\obj\Debug\UseCustomEvent.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\2 事件\EventDemos\UseCustomEvent\obj\Debug\UseCustomEvent.pdb
+E:\EventDemos\UseCustomEvent\bin\Debug\UseCustomEvent.exe.config
+E:\EventDemos\UseCustomEvent\bin\Debug\UseCustomEvent.exe
+E:\EventDemos\UseCustomEvent\bin\Debug\UseCustomEvent.pdb
+E:\EventDemos\UseCustomEvent\obj\Debug\9_UseCustomEvent.csprojResolveAssemblyReference.cache
+E:\EventDemos\UseCustomEvent\obj\Debug\UseCustomEvent.frmMain.resources
+E:\EventDemos\UseCustomEvent\obj\Debug\UseCustomEvent.Properties.Resources.resources
+E:\EventDemos\UseCustomEvent\obj\Debug\9_UseCustomEvent.csproj.GenerateResource.Cache
+E:\EventDemos\UseCustomEvent\obj\Debug\UseCustomEvent.exe
+E:\EventDemos\UseCustomEvent\obj\Debug\UseCustomEvent.pdb

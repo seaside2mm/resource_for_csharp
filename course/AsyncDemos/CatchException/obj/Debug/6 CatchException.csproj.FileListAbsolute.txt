@@ -1,0 +1,6 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\CatchException\bin\Debug\CatchException.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\CatchException\obj\Debug\CatchException.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\CatchException\obj\Debug\CatchException.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\CatchException\bin\Debug\CatchException.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\CatchException\bin\Debug\CatchException.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\CatchException\obj\Debug\6 CatchException.csprojResolveAssemblyReference.cache

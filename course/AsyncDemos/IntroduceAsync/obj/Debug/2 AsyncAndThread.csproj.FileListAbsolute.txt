@@ -1,0 +1,12 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsync\bin\Debug\AsyncAndThread.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsync\bin\Debug\AsyncAndThread.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsync\bin\Debug\AsyncAndThread.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsync\obj\Debug\AsyncAndThread.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsync\obj\Debug\AsyncAndThread.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsync\obj\Debug\2 AsyncAndThread.csprojResolveAssemblyReference.cache
+E:\AsyncDemos\IntroduceAsync\bin\Debug\AsyncAndThread.exe.config
+E:\AsyncDemos\IntroduceAsync\obj\Debug\AsyncAndThread.exe
+E:\AsyncDemos\IntroduceAsync\obj\Debug\AsyncAndThread.pdb
+E:\AsyncDemos\IntroduceAsync\bin\Debug\AsyncAndThread.exe
+E:\AsyncDemos\IntroduceAsync\bin\Debug\AsyncAndThread.pdb
+E:\AsyncDemos\IntroduceAsync\obj\Debug\2 AsyncAndThread.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\HowToWriteAsyncMethod\bin\Debug\HowToWriteAsyncMethod.exe.config
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\HowToWriteAsyncMethod\bin\Debug\HowToWriteAsyncMethod.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\HowToWriteAsyncMethod\bin\Debug\HowToWriteAsyncMethod.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\HowToWriteAsyncMethod\obj\Debug\4 HowToWriteAsyncMethod.csprojResolveAssemblyReference.cache
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\HowToWriteAsyncMethod\obj\Debug\HowToWriteAsyncMethod.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\HowToWriteAsyncMethod\obj\Debug\HowToWriteAsyncMethod.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\HowToWriteAsyncMethod\bin\Debug\HowToWriteAsyncMethod.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\HowToWriteAsyncMethod\obj\Debug\HowToWriteAsyncMethod.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\HowToWriteAsyncMethod\obj\Debug\HowToWriteAsyncMethod.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\HowToWriteAsyncMethod\bin\Debug\HowToWriteAsyncMethod.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\HowToWriteAsyncMethod\bin\Debug\HowToWriteAsyncMethod.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\HowToWriteAsyncMethod\obj\Debug\4 HowToWriteAsyncMethod.csprojResolveAssemblyReference.cache

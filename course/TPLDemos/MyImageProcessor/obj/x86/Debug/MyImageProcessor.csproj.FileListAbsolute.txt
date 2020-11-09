@@ -1,0 +1,54 @@
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\MyImageProcessor\MyImageProcessor\bin\Debug\MyImageProcessor.exe
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\MyImageProcessor\MyImageProcessor\bin\Debug\MyImageProcessor.pdb
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\App.g.cs
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\MyImageProcessor_MarkupCompile.cache
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\MyImageProcessor.g.resources
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\MyImageProcessor.Properties.Resources.resources
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\MyImageProcessor.csproj.GenerateResource.Cache
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\MyImageProcessor.exe
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\MyImageProcessor.pdb
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\winMain.baml
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\winMain.g.cs
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.5\MyImageProcessor\MyImageProcessor\obj\x86\Debug\MyImageProcessor.exe
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.5\MyImageProcessor\MyImageProcessor\obj\x86\Debug\MyImageProcessor.pdb
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.5\MyImageProcessor\MyImageProcessor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.5\MyImageProcessor\MyImageProcessor\obj\x86\Debug\winMain.baml
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.5\MyImageProcessor\MyImageProcessor\obj\x86\Debug\winMain.g.cs
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.5\MyImageProcessor\MyImageProcessor\obj\x86\Debug\App.g.cs
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.5\MyImageProcessor\MyImageProcessor\obj\x86\Debug\MyImageProcessor_MarkupCompile.cache
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.5\MyImageProcessor\MyImageProcessor\obj\x86\Debug\MyImageProcessor.g.resources
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.5\MyImageProcessor\MyImageProcessor\obj\x86\Debug\MyImageProcessor.Properties.Resources.resources
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.5\MyImageProcessor\MyImageProcessor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.5\MyImageProcessor\MyImageProcessor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.5\MyImageProcessor\MyImageProcessor\bin\Debug\MyImageProcessor.exe
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.5\MyImageProcessor\MyImageProcessor\bin\Debug\MyImageProcessor.pdb
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\MyImageProcessor.exe
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\MyImageProcessor.pdb
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\bin\Debug\MyImageProcessor.exe
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\bin\Debug\MyImageProcessor.pdb
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\winMain.baml
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\winMain.g.cs
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\App.g.cs
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\MyImageProcessor_MarkupCompile.cache
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\MyImageProcessor.g.resources
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\MyImageProcessor.Properties.Resources.resources
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\MyImageProcessor\obj\x86\Debug\MyImageProcessor.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\MyImageProcessor\obj\x86\Debug\MyImageProcessor.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\MyImageProcessor\bin\Debug\MyImageProcessor.exe.config
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\MyImageProcessor\bin\Debug\MyImageProcessor.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\MyImageProcessor\bin\Debug\MyImageProcessor.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\MyImageProcessor\obj\x86\Debug\MyImageProcessor.csprojResolveAssemblyReference.cache
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\MyImageProcessor\obj\x86\Debug\winMain.baml
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\MyImageProcessor\obj\x86\Debug\winMain.g.cs
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\MyImageProcessor\obj\x86\Debug\App.g.cs
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\MyImageProcessor\obj\x86\Debug\MyImageProcessor_MarkupCompile.cache
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\MyImageProcessor\obj\x86\Debug\MyImageProcessor.g.resources
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\MyImageProcessor\obj\x86\Debug\MyImageProcessor.Properties.Resources.resources
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\MyImageProcessor\obj\x86\Debug\MyImageProcessor.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\MyImageProcessor\bin\Debug\MyImageProcessor.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\MyImageProcessor\obj\x86\Debug\MyImageProcessor.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\MyImageProcessor\obj\x86\Debug\MyImageProcessor.pdb

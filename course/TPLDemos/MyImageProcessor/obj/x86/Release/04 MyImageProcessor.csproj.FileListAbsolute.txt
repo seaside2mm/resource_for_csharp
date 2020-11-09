@@ -1,0 +1,13 @@
+E:\TPLDemos\MyImageProcessor\bin\Release\MyImageProcessor.exe.config
+E:\TPLDemos\MyImageProcessor\obj\x86\Release\MyImageProcessor.exe
+E:\TPLDemos\MyImageProcessor\obj\x86\Release\MyImageProcessor.pdb
+E:\TPLDemos\MyImageProcessor\bin\Release\MyImageProcessor.exe
+E:\TPLDemos\MyImageProcessor\bin\Release\MyImageProcessor.pdb
+E:\TPLDemos\MyImageProcessor\obj\x86\Release\04 MyImageProcessor.csprojResolveAssemblyReference.cache
+E:\TPLDemos\MyImageProcessor\obj\x86\Release\winMain.baml
+E:\TPLDemos\MyImageProcessor\obj\x86\Release\winMain.g.cs
+E:\TPLDemos\MyImageProcessor\obj\x86\Release\App.g.cs
+E:\TPLDemos\MyImageProcessor\obj\x86\Release\MyImageProcessor_MarkupCompile.cache
+E:\TPLDemos\MyImageProcessor\obj\x86\Release\MyImageProcessor.g.resources
+E:\TPLDemos\MyImageProcessor\obj\x86\Release\MyImageProcessor.Properties.Resources.resources
+E:\TPLDemos\MyImageProcessor\obj\x86\Release\04 MyImageProcessor.csproj.GenerateResource.Cache

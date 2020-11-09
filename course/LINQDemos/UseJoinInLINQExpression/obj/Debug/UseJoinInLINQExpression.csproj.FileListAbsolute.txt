@@ -1,0 +1,10 @@
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\5 LINQ基础\SourceCode\UseJoinInLINQExpression\UseJoinInLINQExpression\bin\Debug\UseJoinInLINQExpression.exe
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\5 LINQ基础\SourceCode\UseJoinInLINQExpression\UseJoinInLINQExpression\bin\Debug\UseJoinInLINQExpression.pdb
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\5 LINQ基础\SourceCode\UseJoinInLINQExpression\UseJoinInLINQExpression\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\5 LINQ基础\SourceCode\UseJoinInLINQExpression\UseJoinInLINQExpression\obj\Debug\UseJoinInLINQExpression.exe
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\5 LINQ基础\SourceCode\UseJoinInLINQExpression\UseJoinInLINQExpression\obj\Debug\UseJoinInLINQExpression.pdb
+D:\面向对象的艺术\第5篇 数据存取技术\第30章 LINQ to Object\SourceCode\UseJoinInLINQExpression\UseJoinInLINQExpression\obj\Debug\UseJoinInLINQExpression.exe
+D:\面向对象的艺术\第5篇 数据存取技术\第30章 LINQ to Object\SourceCode\UseJoinInLINQExpression\UseJoinInLINQExpression\obj\Debug\UseJoinInLINQExpression.pdb
+D:\面向对象的艺术\第5篇 数据存取技术\第30章 LINQ to Object\SourceCode\UseJoinInLINQExpression\UseJoinInLINQExpression\bin\Debug\UseJoinInLINQExpression.exe
+D:\面向对象的艺术\第5篇 数据存取技术\第30章 LINQ to Object\SourceCode\UseJoinInLINQExpression\UseJoinInLINQExpression\bin\Debug\UseJoinInLINQExpression.pdb
+D:\面向对象的艺术\第5篇 数据存取技术\第30章 LINQ to Object\SourceCode\UseJoinInLINQExpression\UseJoinInLINQExpression\obj\Debug\ResolveAssemblyReference.cache

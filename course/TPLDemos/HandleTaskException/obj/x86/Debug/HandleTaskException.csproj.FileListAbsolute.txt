@@ -1,0 +1,25 @@
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\HandleParallelException\bin\Debug\HandleTaskException.exe
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\HandleParallelException\bin\Debug\HandleTaskException.pdb
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\HandleParallelException\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\HandleParallelException\obj\x86\Debug\HandleTaskException.exe
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\HandleParallelException\obj\x86\Debug\HandleTaskException.pdb
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\HandleTaskException\bin\Debug\HandleTaskException.exe
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\HandleTaskException\bin\Debug\HandleTaskException.pdb
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\HandleTaskException\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\HandleTaskException\obj\x86\Debug\HandleTaskException.exe
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\HandleTaskException\obj\x86\Debug\HandleTaskException.pdb
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.3\HandleTaskException\obj\x86\Debug\HandleTaskException.exe
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.3\HandleTaskException\obj\x86\Debug\HandleTaskException.pdb
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.3\HandleTaskException\bin\Debug\HandleTaskException.exe
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.3\HandleTaskException\bin\Debug\HandleTaskException.pdb
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.3\HandleTaskException\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第19章 并行计算技术基础\SourceCode\19.3\HandleTaskException\obj\x86\Debug\HandleTaskException.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第19章 并行计算技术基础\SourceCode\19.3\HandleTaskException\obj\x86\Debug\HandleTaskException.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第19章 并行计算技术基础\SourceCode\19.3\HandleTaskException\bin\Debug\HandleTaskException.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第19章 并行计算技术基础\SourceCode\19.3\HandleTaskException\bin\Debug\HandleTaskException.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第19章 并行计算技术基础\SourceCode\19.3\HandleTaskException\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPL老的代码库\SourceCode\HandleTaskException\obj\x86\Debug\HandleTaskException.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPL老的代码库\SourceCode\HandleTaskException\obj\x86\Debug\HandleTaskException.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPL老的代码库\SourceCode\HandleTaskException\bin\Debug\HandleTaskException.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPL老的代码库\SourceCode\HandleTaskException\bin\Debug\HandleTaskException.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPL老的代码库\SourceCode\HandleTaskException\obj\x86\Debug\HandleTaskException.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\SequentialvsParalled\bin\Debug\SequentialvsParalled.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\SequentialvsParalled\obj\x86\Debug\SequentialvsParalled.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\SequentialvsParalled\obj\x86\Debug\SequentialvsParalled.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\SequentialvsParalled\bin\Debug\SequentialvsParalled.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\SequentialvsParalled\bin\Debug\SequentialvsParalled.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\SequentialvsParalled\obj\x86\Debug\1 SequentialvsParalled.csprojResolveAssemblyReference.cache
+C:\MOOC\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\SequentialvsParalled\bin\Debug\SequentialvsParalled.exe.config
+C:\MOOC\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\SequentialvsParalled\obj\x86\Debug\SequentialvsParalled.exe
+C:\MOOC\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\SequentialvsParalled\obj\x86\Debug\SequentialvsParalled.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\SequentialvsParalled\bin\Debug\SequentialvsParalled.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\SequentialvsParalled\obj\x86\Debug\SequentialvsParalled.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\SequentialvsParalled\obj\x86\Debug\SequentialvsParalled.pdb

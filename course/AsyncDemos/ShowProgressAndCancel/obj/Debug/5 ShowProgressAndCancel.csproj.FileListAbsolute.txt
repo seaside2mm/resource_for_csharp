@@ -1,0 +1,9 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\ShowProgressAndCancel\bin\Debug\ShowProgressAndCancel.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\ShowProgressAndCancel\bin\Debug\ShowProgressAndCancel.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\ShowProgressAndCancel\bin\Debug\ShowProgressAndCancel.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\ShowProgressAndCancel\obj\Debug\5 ShowProgressAndCancel.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\ShowProgressAndCancel\obj\Debug\ShowProgressAndCancel.frmMain.resources
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\ShowProgressAndCancel\obj\Debug\ShowProgressAndCancel.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\ShowProgressAndCancel\obj\Debug\5 ShowProgressAndCancel.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\ShowProgressAndCancel\obj\Debug\ShowProgressAndCancel.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\ShowProgressAndCancel\obj\Debug\ShowProgressAndCancel.pdb

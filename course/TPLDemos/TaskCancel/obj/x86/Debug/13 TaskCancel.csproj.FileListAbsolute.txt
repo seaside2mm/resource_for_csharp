@@ -1,0 +1,4 @@
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\TaskCancel\obj\x86\Debug\TaskCancel.exe
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\TaskCancel\obj\x86\Debug\TaskCancel.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\TaskCancel\obj\x86\Debug\TaskCancel.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\TaskCancel\obj\x86\Debug\TaskCancel.pdb

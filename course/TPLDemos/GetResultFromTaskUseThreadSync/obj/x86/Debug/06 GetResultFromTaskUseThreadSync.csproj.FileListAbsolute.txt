@@ -1,0 +1,2 @@
+E:\TPLDemos\GetResultFromTaskUseThreadSync\obj\x86\Debug\GetResultFromTask.exe
+E:\TPLDemos\GetResultFromTaskUseThreadSync\obj\x86\Debug\GetResultFromTask.pdb

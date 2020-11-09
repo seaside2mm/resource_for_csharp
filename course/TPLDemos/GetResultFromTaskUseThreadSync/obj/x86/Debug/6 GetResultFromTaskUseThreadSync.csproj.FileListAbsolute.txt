@@ -1,0 +1,4 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\GetResultFromTaskUseThreadSync\obj\x86\Debug\GetResultFromTask.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\GetResultFromTaskUseThreadSync\obj\x86\Debug\GetResultFromTask.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\GetResultFromTaskUseThreadSync\bin\Debug\GetResultFromTask.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\GetResultFromTaskUseThreadSync\bin\Debug\GetResultFromTask.pdb

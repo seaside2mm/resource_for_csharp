@@ -1,0 +1,9 @@
+C:\MOOC\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\FromThreadToTask\obj\x86\Debug\4 FromThreadToTask.csprojResolveAssemblyReference.cache
+C:\MOOC\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\FromThreadToTask\obj\x86\Debug\CalculateVarianceOfPopulation.frmMain.resources
+C:\MOOC\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\FromThreadToTask\obj\x86\Debug\CalculateVarianceOfPopulation.Properties.Resources.resources
+C:\MOOC\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\FromThreadToTask\obj\x86\Debug\4 FromThreadToTask.csproj.GenerateResource.Cache
+C:\MOOC\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\FromThreadToTask\obj\x86\Debug\CalculateVarianceOfPopulation.exe
+C:\MOOC\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\FromThreadToTask\bin\Debug\CalculateVarianceOfPopulation.exe.config
+C:\MOOC\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\FromThreadToTask\bin\Debug\CalculateVarianceOfPopulation.exe
+C:\MOOC\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\FromThreadToTask\bin\Debug\CalculateVarianceOfPopulation.pdb
+C:\MOOC\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\FromThreadToTask\obj\x86\Debug\CalculateVarianceOfPopulation.pdb

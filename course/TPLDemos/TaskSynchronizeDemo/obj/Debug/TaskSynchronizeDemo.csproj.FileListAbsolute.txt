@@ -1,0 +1,9 @@
+E:\MOOC\录课视频相关文件\第二系列\TPL基础\TPLDemos\TaskSynchronizeDemo\bin\Debug\TaskSynchronizeDemo.exe.config
+E:\MOOC\录课视频相关文件\第二系列\TPL基础\TPLDemos\TaskSynchronizeDemo\bin\Debug\TaskSynchronizeDemo.exe
+E:\MOOC\录课视频相关文件\第二系列\TPL基础\TPLDemos\TaskSynchronizeDemo\bin\Debug\TaskSynchronizeDemo.pdb
+E:\MOOC\录课视频相关文件\第二系列\TPL基础\TPLDemos\TaskSynchronizeDemo\obj\Debug\TaskSynchronizeDemo.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\第二系列\TPL基础\TPLDemos\TaskSynchronizeDemo\obj\Debug\TaskSynchronizeDemo.exe
+E:\MOOC\录课视频相关文件\第二系列\TPL基础\TPLDemos\TaskSynchronizeDemo\obj\Debug\TaskSynchronizeDemo.pdb
+G:\正在工作\TPL基础\TPLDemos\TaskSynchronizeDemo\bin\Debug\TaskSynchronizeDemo.exe.config
+G:\正在工作\TPL基础\TPLDemos\TaskSynchronizeDemo\obj\Debug\TaskSynchronizeDemo.exe
+G:\正在工作\TPL基础\TPLDemos\TaskSynchronizeDemo\obj\Debug\TaskSynchronizeDemo.pdb

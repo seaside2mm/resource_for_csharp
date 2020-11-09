@@ -1,0 +1,72 @@
+C:\jxl\技术讲座\C#3.0与.NET 3.5面向对象编程进阶\12 线程同步与并发访问共享资源\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.exe
+C:\jxl\技术讲座\C#3.0与.NET 3.5面向对象编程进阶\12 线程同步与并发访问共享资源\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.pdb
+C:\jxl\技术讲座\C#3.0与.NET 3.5面向对象编程进阶\12 线程同步与并发访问共享资源\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\技术讲座\C#3.0与.NET 3.5面向对象编程进阶\12 线程同步与并发访问共享资源\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\winMain.baml
+C:\jxl\技术讲座\C#3.0与.NET 3.5面向对象编程进阶\12 线程同步与并发访问共享资源\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\winMain.g.cs
+C:\jxl\技术讲座\C#3.0与.NET 3.5面向对象编程进阶\12 线程同步与并发访问共享资源\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\App.g.cs
+C:\jxl\技术讲座\C#3.0与.NET 3.5面向对象编程进阶\12 线程同步与并发访问共享资源\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation_MarkupCompile.cache
+C:\jxl\技术讲座\C#3.0与.NET 3.5面向对象编程进阶\12 线程同步与并发访问共享资源\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.g.resources
+C:\jxl\技术讲座\C#3.0与.NET 3.5面向对象编程进阶\12 线程同步与并发访问共享资源\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.Properties.Resources.resources
+C:\jxl\技术讲座\C#3.0与.NET 3.5面向对象编程进阶\12 线程同步与并发访问共享资源\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.csproj.GenerateResource.Cache
+C:\jxl\技术讲座\C#3.0与.NET 3.5面向对象编程进阶\12 线程同步与并发访问共享资源\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.exe
+C:\jxl\技术讲座\C#3.0与.NET 3.5面向对象编程进阶\12 线程同步与并发访问共享资源\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.pdb
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\21 并行计算\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.exe
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\21 并行计算\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.pdb
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\21 并行计算\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.exe
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\21 并行计算\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.pdb
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\21 并行计算\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\21 并行计算\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\winMain.baml
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\21 并行计算\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\winMain.g.cs
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\21 并行计算\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\App.g.cs
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\21 并行计算\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation_MarkupCompile.cache
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\21 并行计算\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.g.resources
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\21 并行计算\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.Properties.Resources.resources
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\21 并行计算\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.csproj.GenerateResource.Cache
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第20章  多线程开发基础\SourceCode\20.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.exe
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第20章  多线程开发基础\SourceCode\20.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.pdb
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第20章  多线程开发基础\SourceCode\20.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第20章  多线程开发基础\SourceCode\20.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\winMain.baml
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第20章  多线程开发基础\SourceCode\20.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\winMain.g.cs
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第20章  多线程开发基础\SourceCode\20.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\App.g.cs
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第20章  多线程开发基础\SourceCode\20.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation_MarkupCompile.cache
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第20章  多线程开发基础\SourceCode\20.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.g.resources
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第20章  多线程开发基础\SourceCode\20.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.Properties.Resources.resources
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第20章  多线程开发基础\SourceCode\20.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第20章  多线程开发基础\SourceCode\20.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第20章  多线程开发基础\SourceCode\20.5\UnifiedModelForCancellation\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.exe.config
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第20章  多线程开发基础\SourceCode\20.5\UnifiedModelForCancellation\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.exe
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第20章  多线程开发基础\SourceCode\20.5\UnifiedModelForCancellation\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第16章 多线程开发技术基础\SourceCode\16.5\UnifiedModelForCancellation\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.exe.config
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第16章 多线程开发技术基础\SourceCode\16.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第16章 多线程开发技术基础\SourceCode\16.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第16章 多线程开发技术基础\SourceCode\16.5\UnifiedModelForCancellation\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第16章 多线程开发技术基础\SourceCode\16.5\UnifiedModelForCancellation\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第16章 多线程开发技术基础\SourceCode\16.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第16章 多线程开发技术基础\SourceCode\16.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\winMain.baml
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第16章 多线程开发技术基础\SourceCode\16.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\winMain.g.cs
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第16章 多线程开发技术基础\SourceCode\16.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\App.g.cs
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第16章 多线程开发技术基础\SourceCode\16.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation_MarkupCompile.cache
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第16章 多线程开发技术基础\SourceCode\16.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.g.resources
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第16章 多线程开发技术基础\SourceCode\16.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.Properties.Resources.resources
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第16章 多线程开发技术基础\SourceCode\16.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第16章 多线程开发技术基础\SourceCode\16.5\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Test\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.exe.config
+D:\Test\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.exe
+D:\Test\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.pdb
+C:\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.exe.config
+C:\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.exe
+C:\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.pdb
+C:\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.exe
+C:\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.pdb
+C:\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\winMain.baml
+C:\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\winMain.g.cs
+C:\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\App.g.cs
+C:\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation_MarkupCompile.cache
+C:\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.g.resources
+C:\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.Properties.Resources.resources
+C:\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\.NET 4.0高级开发技术培训班\3 进程、线程与并行计算\3 多线程开发基础\SourceCode\UnifiedModelForCancellation\UnifiedModelForCancellation\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\TPLDemos\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.exe.config
+E:\TPLDemos\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.exe
+E:\TPLDemos\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.pdb

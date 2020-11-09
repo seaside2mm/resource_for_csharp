@@ -1,0 +1,9 @@
+E:\AsyncDemos\AsyncVoidDemo\bin\Debug\AsyncVoidDemo.exe.config
+E:\AsyncDemos\AsyncVoidDemo\obj\Debug\AsyncVoidDemo.exe
+E:\AsyncDemos\AsyncVoidDemo\obj\Debug\AsyncVoidDemo.pdb
+E:\AsyncDemos\AsyncVoidDemo\bin\Debug\AsyncVoidDemo.exe
+E:\AsyncDemos\AsyncVoidDemo\bin\Debug\AsyncVoidDemo.pdb
+E:\AsyncDemos\AsyncVoidDemo\obj\Debug\8 AsyncVoidDemo.csprojResolveAssemblyReference.cache
+E:\AsyncDemos\AsyncVoidDemo\obj\Debug\AsyncVoidDemo.frmMain.resources
+E:\AsyncDemos\AsyncVoidDemo\obj\Debug\AsyncVoidDemo.Properties.Resources.resources
+E:\AsyncDemos\AsyncVoidDemo\obj\Debug\8 AsyncVoidDemo.csproj.GenerateResource.Cache

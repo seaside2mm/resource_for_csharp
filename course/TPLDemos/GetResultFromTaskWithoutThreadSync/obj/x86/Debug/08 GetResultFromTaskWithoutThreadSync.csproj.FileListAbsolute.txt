@@ -1,0 +1,4 @@
+E:\TPLDemos\GetResultFromTaskWithoutThreadSync\obj\x86\Debug\GetResultFromTaskWithoutThreadSync.exe
+E:\TPLDemos\GetResultFromTaskWithoutThreadSync\obj\x86\Debug\GetResultFromTaskWithoutThreadSync.pdb
+E:\TPLDemos\GetResultFromTaskWithoutThreadSync\bin\Debug\GetResultFromTaskWithoutThreadSync.exe
+E:\TPLDemos\GetResultFromTaskWithoutThreadSync\bin\Debug\GetResultFromTaskWithoutThreadSync.pdb

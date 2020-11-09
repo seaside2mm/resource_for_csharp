@@ -1,0 +1,6 @@
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\UseJoinInLINQExpression\bin\Debug\UseJoinInLINQExpression.exe.config
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\UseJoinInLINQExpression\obj\Debug\UseJoinInLINQExpression.exe
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\UseJoinInLINQExpression\obj\Debug\UseJoinInLINQExpression.pdb
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\UseJoinInLINQExpression\bin\Debug\UseJoinInLINQExpression.exe
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\UseJoinInLINQExpression\bin\Debug\UseJoinInLINQExpression.pdb
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\UseJoinInLINQExpression\obj\Debug\12 UseJoinInLINQExpression.csprojResolveAssemblyReference.cache

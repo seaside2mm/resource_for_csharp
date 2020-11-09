@@ -1,0 +1,6 @@
+E:\AsyncDemos\CatchException\bin\Debug\CatchException.exe.config
+E:\AsyncDemos\CatchException\obj\Debug\CatchException.exe
+E:\AsyncDemos\CatchException\obj\Debug\CatchException.pdb
+E:\AsyncDemos\CatchException\bin\Debug\CatchException.exe
+E:\AsyncDemos\CatchException\bin\Debug\CatchException.pdb
+E:\AsyncDemos\CatchException\obj\Debug\7 CatchException.csprojResolveAssemblyReference.cache

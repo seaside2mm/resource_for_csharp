@@ -1,0 +1,12 @@
+E:\MOOC\录课视频相关文件\第二系列\第1单元_让一切并行起来\3 TPL与并行计算\TPLDemos\SequentialvsParalled\bin\Debug\SequentialvsParalled.exe.config
+E:\MOOC\录课视频相关文件\第二系列\第1单元_让一切并行起来\3 TPL与并行计算\TPLDemos\SequentialvsParalled\obj\x86\Debug\SequentialvsParalled.exe
+E:\MOOC\录课视频相关文件\第二系列\第1单元_让一切并行起来\3 TPL与并行计算\TPLDemos\SequentialvsParalled\obj\x86\Debug\SequentialvsParalled.pdb
+E:\MOOC\录课视频相关文件\第二系列\第1单元_让一切并行起来\3 TPL与并行计算\TPLDemos\SequentialvsParalled\bin\Debug\SequentialvsParalled.exe
+E:\MOOC\录课视频相关文件\第二系列\第1单元_让一切并行起来\3 TPL与并行计算\TPLDemos\SequentialvsParalled\bin\Debug\SequentialvsParalled.pdb
+E:\MOOC\录课视频相关文件\第二系列\第1单元_让一切并行起来\3 TPL与并行计算\TPLDemos\SequentialvsParalled\obj\x86\Debug\01 SequentialvsParalled.csprojResolveAssemblyReference.cache
+E:\TPLDemos\SequentialvsParalled\bin\Debug\SequentialvsParalled.exe.config
+E:\TPLDemos\SequentialvsParalled\obj\x86\Debug\SequentialvsParalled.exe
+E:\TPLDemos\SequentialvsParalled\obj\x86\Debug\SequentialvsParalled.pdb
+E:\TPLDemos\SequentialvsParalled\bin\Debug\SequentialvsParalled.exe
+E:\TPLDemos\SequentialvsParalled\bin\Debug\SequentialvsParalled.pdb
+E:\TPLDemos\SequentialvsParalled\obj\x86\Debug\01 SequentialvsParalled.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\TPLDemos\SequentialvsParalled\bin\Release\SequentialvsParalled.exe.config
+E:\TPLDemos\SequentialvsParalled\obj\x86\Release\SequentialvsParalled.exe
+E:\TPLDemos\SequentialvsParalled\obj\x86\Release\SequentialvsParalled.pdb
+E:\TPLDemos\SequentialvsParalled\bin\Release\SequentialvsParalled.exe
+E:\TPLDemos\SequentialvsParalled\bin\Release\SequentialvsParalled.pdb
+E:\TPLDemos\SequentialvsParalled\obj\x86\Release\01 SequentialvsParalled.csprojResolveAssemblyReference.cache

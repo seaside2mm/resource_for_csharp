@@ -1,0 +1,5 @@
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\HandleParallelException\bin\Debug\HandleParallelException.exe
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\HandleParallelException\bin\Debug\HandleParallelException.pdb
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\HandleParallelException\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\HandleParallelException\obj\x86\Debug\HandleParallelException.exe
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\HandleParallelException\obj\x86\Debug\HandleParallelException.pdb

@@ -1,0 +1,9 @@
+E:\AsyncDemos\ShowProgressAndCancel\bin\Debug\ShowProgressAndCancel.exe.config
+E:\AsyncDemos\ShowProgressAndCancel\obj\Debug\ShowProgressAndCancel.exe
+E:\AsyncDemos\ShowProgressAndCancel\obj\Debug\ShowProgressAndCancel.pdb
+E:\AsyncDemos\ShowProgressAndCancel\bin\Debug\ShowProgressAndCancel.exe
+E:\AsyncDemos\ShowProgressAndCancel\bin\Debug\ShowProgressAndCancel.pdb
+E:\AsyncDemos\ShowProgressAndCancel\obj\Debug\6 ShowProgressAndCancel.csprojResolveAssemblyReference.cache
+E:\AsyncDemos\ShowProgressAndCancel\obj\Debug\ShowProgressAndCancel.frmMain.resources
+E:\AsyncDemos\ShowProgressAndCancel\obj\Debug\ShowProgressAndCancel.Properties.Resources.resources
+E:\AsyncDemos\ShowProgressAndCancel\obj\Debug\6 ShowProgressAndCancel.csproj.GenerateResource.Cache

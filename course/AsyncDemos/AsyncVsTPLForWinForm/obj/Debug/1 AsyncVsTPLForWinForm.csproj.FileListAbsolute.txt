@@ -1,0 +1,8 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVsTPLForWinForm\bin\Debug\AsyncVsTPLForWinForm.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVsTPLForWinForm\obj\Debug\AsyncVsTPLForWinForm.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVsTPLForWinForm\obj\Debug\AsyncVsTPLForWinForm.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVsTPLForWinForm\bin\Debug\AsyncVsTPLForWinForm.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVsTPLForWinForm\bin\Debug\AsyncVsTPLForWinForm.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVsTPLForWinForm\obj\Debug\AsyncVsTPLForWinForm.frmMain.resources
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVsTPLForWinForm\obj\Debug\AsyncVsTPLForWinForm.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\AsyncVsTPLForWinForm\obj\Debug\1 AsyncVsTPLForWinForm.csproj.GenerateResource.Cache

@@ -1,0 +1,22 @@
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\TaskCancel\bin\Debug\TaskCancel.exe
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\TaskCancel\bin\Debug\TaskCancel.pdb
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\TaskCancel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\TaskCancel\obj\x86\Debug\TaskCancel.exe
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\TaskCancel\obj\x86\Debug\TaskCancel.pdb
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.3\TaskCancel\obj\x86\Debug\TaskCancel.exe
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.3\TaskCancel\obj\x86\Debug\TaskCancel.pdb
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.3\TaskCancel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.3\TaskCancel\bin\Debug\TaskCancel.exe
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.3\TaskCancel\bin\Debug\TaskCancel.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第19章 并行计算技术基础\SourceCode\19.3\TaskCancel\obj\x86\Debug\TaskCancel.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第19章 并行计算技术基础\SourceCode\19.3\TaskCancel\obj\x86\Debug\TaskCancel.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第19章 并行计算技术基础\SourceCode\19.3\TaskCancel\bin\Debug\TaskCancel.exe
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第19章 并行计算技术基础\SourceCode\19.3\TaskCancel\bin\Debug\TaskCancel.pdb
+C:\jxl\MyBook\.NET4.0面向对象编程漫谈\2 应用篇\第4篇 进程、线程技术与并行计算\第19章 并行计算技术基础\SourceCode\19.3\TaskCancel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPL老的代码库\SourceCode\TaskCancel\obj\x86\Debug\TaskCancel.exe
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPL老的代码库\SourceCode\TaskCancel\obj\x86\Debug\TaskCancel.pdb
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPL老的代码库\SourceCode\TaskCancel\bin\Debug\TaskCancel.exe
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPL老的代码库\SourceCode\TaskCancel\bin\Debug\TaskCancel.pdb
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPL老的代码库\SourceCode\TaskCancel\obj\x86\Debug\TaskCancel.csprojResolveAssemblyReference.cache
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\TaskCancel\obj\x86\Debug\TaskCancel.exe
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\TaskCancel\obj\x86\Debug\TaskCancel.pdb

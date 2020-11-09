@@ -1,0 +1,8 @@
+E:\MOOC\录课视频相关文件\第二系列\异步编程\AsyncDemos\CatchException\bin\Debug\CatchException.exe.config
+E:\MOOC\录课视频相关文件\第二系列\异步编程\AsyncDemos\CatchException\bin\Debug\CatchException.exe
+E:\MOOC\录课视频相关文件\第二系列\异步编程\AsyncDemos\CatchException\bin\Debug\CatchException.pdb
+E:\MOOC\录课视频相关文件\第二系列\异步编程\AsyncDemos\CatchException\obj\Debug\CatchException.exe
+E:\MOOC\录课视频相关文件\第二系列\异步编程\AsyncDemos\CatchException\obj\Debug\CatchException.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\异步编程\AsyncDemos\CatchException\bin\Debug\CatchException.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\异步编程\AsyncDemos\CatchException\obj\Debug\CatchException.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\异步编程\AsyncDemos\CatchException\obj\Debug\CatchException.pdb

@@ -1,0 +1,6 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\TaskCooperation\bin\Debug\TaskCooperation.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\TaskCooperation\bin\Debug\TaskCooperation.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\TaskCooperation\bin\Debug\TaskCooperation.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\TaskCooperation\obj\Debug\TaskCooperation.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\TaskCooperation\obj\Debug\TaskCooperation.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\TaskCooperation\obj\Debug\TaskCooperation.pdb

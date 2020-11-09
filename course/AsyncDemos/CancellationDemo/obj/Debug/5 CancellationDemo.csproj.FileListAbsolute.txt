@@ -1,0 +1,6 @@
+E:\AsyncDemos\CancellationDemo\bin\Debug\CancellationDemo.exe.config
+E:\AsyncDemos\CancellationDemo\obj\Debug\CancellationDemo.exe
+E:\AsyncDemos\CancellationDemo\obj\Debug\CancellationDemo.pdb
+E:\AsyncDemos\CancellationDemo\bin\Debug\CancellationDemo.exe
+E:\AsyncDemos\CancellationDemo\bin\Debug\CancellationDemo.pdb
+E:\AsyncDemos\CancellationDemo\obj\Debug\5 CancellationDemo.csprojResolveAssemblyReference.cache

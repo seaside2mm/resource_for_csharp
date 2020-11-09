@@ -1,0 +1,21 @@
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\SyntacticSugar\bin\Debug\SyntacticSugar.exe.config
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\SyntacticSugar\bin\Debug\SyntacticSugar.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\SyntacticSugar\bin\Debug\SyntacticSugar.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\SyntacticSugar\obj\Debug\SyntacticSugar.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\SyntacticSugar\obj\Debug\SyntacticSugar.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\SyntacticSugar\obj\Debug\SyntacticSugar.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\SyntacticSugar\bin\Debug\SyntacticSugar.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\SyntacticSugar\obj\Debug\SyntacticSugar.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\SyntacticSugar\obj\Debug\SyntacticSugar.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\SyntacticSugar\bin\Debug\SyntacticSugar.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\SyntacticSugar\obj\Debug\SyntacticSugar.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\SyntacticSugar\obj\Debug\SyntacticSugar.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\1 甜蜜的语法糖\SyntacticSugar\bin\Debug\SyntacticSugar.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\1 甜蜜的语法糖\SyntacticSugar\obj\Debug\SyntacticSugar.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\1 甜蜜的语法糖\SyntacticSugar\obj\Debug\SyntacticSugar.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\1 甜蜜的语法糖\SyntacticSugar\SyntacticSugar\bin\Debug\SyntacticSugar.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\1 甜蜜的语法糖\SyntacticSugar\SyntacticSugar\obj\Debug\SyntacticSugar.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\1 甜蜜的语法糖\SyntacticSugar\SyntacticSugar\obj\Debug\SyntacticSugar.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\1 甜蜜的语法糖\SyntacticSugar\SyntacticSugar\bin\Debug\SyntacticSugar.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\1 甜蜜的语法糖\SyntacticSugar\SyntacticSugar\bin\Debug\SyntacticSugar.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\1 甜蜜的语法糖\SyntacticSugar\SyntacticSugar\obj\Debug\SyntacticSugar.csprojResolveAssemblyReference.cache

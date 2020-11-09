@@ -1,0 +1,8 @@
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\FirstDelegateExample\bin\Debug\FirstDelegateExample.exe.config
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\FirstDelegateExample\obj\Debug\FirstDelegateExample.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\FirstDelegateExample\obj\Debug\FirstDelegateExample.pdb
+E:\DelegateDemos\FirstDelegateExample\bin\Debug\FirstDelegateExample.exe.config
+E:\DelegateDemos\FirstDelegateExample\obj\Debug\FirstDelegateExample.exe
+E:\DelegateDemos\FirstDelegateExample\obj\Debug\FirstDelegateExample.pdb
+E:\DelegateDemos\FirstDelegateExample\bin\Debug\FirstDelegateExample.exe
+E:\DelegateDemos\FirstDelegateExample\bin\Debug\FirstDelegateExample.pdb

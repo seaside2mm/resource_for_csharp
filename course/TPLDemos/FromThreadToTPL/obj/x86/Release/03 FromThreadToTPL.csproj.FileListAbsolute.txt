@@ -1,0 +1,9 @@
+E:\TPLDemos\FromThreadToTPL\bin\Release\CalculateVarianceOfPopulation.exe.config
+E:\TPLDemos\FromThreadToTPL\bin\Release\CalculateVarianceOfPopulation.exe
+E:\TPLDemos\FromThreadToTPL\bin\Release\CalculateVarianceOfPopulation.pdb
+E:\TPLDemos\FromThreadToTPL\obj\x86\Release\03 FromThreadToTPL.csprojResolveAssemblyReference.cache
+E:\TPLDemos\FromThreadToTPL\obj\x86\Release\CalculateVarianceOfPopulation.frmMain.resources
+E:\TPLDemos\FromThreadToTPL\obj\x86\Release\CalculateVarianceOfPopulation.Properties.Resources.resources
+E:\TPLDemos\FromThreadToTPL\obj\x86\Release\03 FromThreadToTPL.csproj.GenerateResource.Cache
+E:\TPLDemos\FromThreadToTPL\obj\x86\Release\CalculateVarianceOfPopulation.exe
+E:\TPLDemos\FromThreadToTPL\obj\x86\Release\CalculateVarianceOfPopulation.pdb

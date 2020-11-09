@@ -1,0 +1,12 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\MyImageProcessor\bin\Release\MyImageProcessor.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\MyImageProcessor\obj\x86\Release\MyImageProcessor.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\MyImageProcessor\obj\x86\Release\MyImageProcessor.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\MyImageProcessor\bin\Release\MyImageProcessor.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\MyImageProcessor\bin\Release\MyImageProcessor.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\MyImageProcessor\obj\x86\Release\winMain.baml
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\MyImageProcessor\obj\x86\Release\winMain.g.cs
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\MyImageProcessor\obj\x86\Release\App.g.cs
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\MyImageProcessor\obj\x86\Release\MyImageProcessor_MarkupCompile.cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\MyImageProcessor\obj\x86\Release\MyImageProcessor.g.resources
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\MyImageProcessor\obj\x86\Release\MyImageProcessor.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\MyImageProcessor\obj\x86\Release\2 MyImageProcessor.csproj.GenerateResource.Cache

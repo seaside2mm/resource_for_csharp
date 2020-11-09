@@ -1,0 +1,8 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\IntroduceParallel\bin\Debug\IntroduceParallel.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\IntroduceParallel\bin\Debug\IntroduceParallel.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\IntroduceParallel\bin\Debug\IntroduceParallel.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\IntroduceParallel\bin\Debug\StudyHelper.dll
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\IntroduceParallel\bin\Debug\StudyHelper.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\IntroduceParallel\obj\Debug\IntroduceParallel.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\IntroduceParallel\obj\Debug\IntroduceParallel.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\IntroduceParallel\obj\Debug\IntroduceParallel.pdb

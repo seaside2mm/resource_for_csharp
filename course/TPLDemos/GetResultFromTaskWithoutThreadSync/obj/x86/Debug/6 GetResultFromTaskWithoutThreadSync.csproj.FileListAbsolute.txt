@@ -1,0 +1,5 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\GetResultFromTaskWithoutThreadSync\obj\x86\Debug\GetResultFromTaskWithoutThreadSync.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\GetResultFromTaskWithoutThreadSync\obj\x86\Debug\GetResultFromTaskWithoutThreadSync.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\GetResultFromTaskWithoutThreadSync\bin\Debug\GetResultFromTaskWithoutThreadSync.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\GetResultFromTaskWithoutThreadSync\bin\Debug\GetResultFromTaskWithoutThreadSync.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\GetResultFromTaskWithoutThreadSync\obj\x86\Debug\6 GetResultFromTaskWithoutThreadSync.csprojResolveAssemblyReference.cache

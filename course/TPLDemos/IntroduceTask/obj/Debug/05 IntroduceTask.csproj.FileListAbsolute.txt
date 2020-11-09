@@ -1,0 +1,5 @@
+E:\TPLDemos\IntroduceTask\bin\Debug\IntroduceTask.exe.config
+E:\TPLDemos\IntroduceTask\obj\Debug\IntroduceTask.exe
+E:\TPLDemos\IntroduceTask\obj\Debug\IntroduceTask.pdb
+E:\TPLDemos\IntroduceTask\bin\Debug\IntroduceTask.exe
+E:\TPLDemos\IntroduceTask\bin\Debug\IntroduceTask.pdb

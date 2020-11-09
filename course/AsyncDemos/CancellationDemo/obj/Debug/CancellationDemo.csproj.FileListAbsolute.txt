@@ -1,0 +1,12 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\CancellationDemo\bin\Debug\CancellationDemo.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\CancellationDemo\bin\Debug\CancellationDemo.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\CancellationDemo\bin\Debug\CancellationDemo.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\CancellationDemo\obj\Debug\CancellationDemo.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\CancellationDemo\obj\Debug\CancellationDemo.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\CancellationDemo\obj\Debug\CancellationDemo.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\4 异步编程\AsyncDemos\CancellationDemo\bin\Debug\CancellationDemo.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\4 异步编程\AsyncDemos\CancellationDemo\obj\Debug\CancellationDemo.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\4 异步编程\AsyncDemos\CancellationDemo\obj\Debug\CancellationDemo.pdb
+E:\MOOC\录课视频相关文件\第二系列\第一单元_让一切并行起来\4 异步编程\AsyncDemos\CancellationDemo\bin\Debug\CancellationDemo.exe.config
+E:\MOOC\录课视频相关文件\第二系列\第一单元_让一切并行起来\4 异步编程\AsyncDemos\CancellationDemo\obj\Debug\CancellationDemo.exe
+E:\MOOC\录课视频相关文件\第二系列\第一单元_让一切并行起来\4 异步编程\AsyncDemos\CancellationDemo\obj\Debug\CancellationDemo.pdb

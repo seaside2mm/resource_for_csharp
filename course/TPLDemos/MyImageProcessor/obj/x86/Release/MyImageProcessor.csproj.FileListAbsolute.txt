@@ -1,0 +1,51 @@
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\bin\Release\MyImageProcessor.exe
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\bin\Release\MyImageProcessor.pdb
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\winMain.baml
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\winMain.g.cs
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\App.g.cs
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor_MarkupCompile.cache
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor.g.resources
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor.Properties.Resources.resources
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor.exe
+D:\Working\中科院讲座\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor.pdb
+D:\Working\中科院讲座\SourceCode\并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor.exe
+D:\Working\中科院讲座\SourceCode\并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor.pdb
+D:\Working\中科院讲座\SourceCode\并行计算\MyImageProcessor\MyImageProcessor\bin\Release\MyImageProcessor.exe
+D:\Working\中科院讲座\SourceCode\并行计算\MyImageProcessor\MyImageProcessor\bin\Release\MyImageProcessor.pdb
+D:\Working\中科院讲座\SourceCode\并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Working\中科院讲座\SourceCode\并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\winMain.baml
+D:\Working\中科院讲座\SourceCode\并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\winMain.g.cs
+D:\Working\中科院讲座\SourceCode\并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\App.g.cs
+D:\Working\中科院讲座\SourceCode\并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor_MarkupCompile.cache
+D:\Working\中科院讲座\SourceCode\并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor.g.resources
+D:\Working\中科院讲座\SourceCode\并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor.Properties.Resources.resources
+D:\Working\中科院讲座\SourceCode\并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Working\中科院讲座\SourceCode\并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\GenerateResource.write.1.tlog
+D:\jxl\技术讲座\中科院讲座\SourceCode\2_并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor.exe
+D:\jxl\技术讲座\中科院讲座\SourceCode\2_并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor.pdb
+D:\jxl\技术讲座\中科院讲座\SourceCode\2_并行计算\MyImageProcessor\MyImageProcessor\bin\Release\MyImageProcessor.exe
+D:\jxl\技术讲座\中科院讲座\SourceCode\2_并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\ResolveAssemblyReference.cache
+D:\jxl\技术讲座\中科院讲座\SourceCode\2_并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\winMain.baml
+D:\jxl\技术讲座\中科院讲座\SourceCode\2_并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\winMain.g.cs
+D:\jxl\技术讲座\中科院讲座\SourceCode\2_并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\App.g.cs
+D:\jxl\技术讲座\中科院讲座\SourceCode\2_并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor_MarkupCompile.cache
+D:\jxl\技术讲座\中科院讲座\SourceCode\2_并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor.g.resources
+D:\jxl\技术讲座\中科院讲座\SourceCode\2_并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor.Properties.Resources.resources
+D:\jxl\技术讲座\中科院讲座\SourceCode\2_并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\GenerateResource.read.1.tlog
+D:\jxl\技术讲座\中科院讲座\SourceCode\2_并行计算\MyImageProcessor\MyImageProcessor\obj\x86\Release\GenerateResource.write.1.tlog
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\3 闯荡面向对象“江湖”\3 充分挖掘计算机的性能\6 并行计算\1 并行计算技术基础\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\3 闯荡面向对象“江湖”\3 充分挖掘计算机的性能\6 并行计算\1 并行计算技术基础\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\3 闯荡面向对象“江湖”\3 充分挖掘计算机的性能\6 并行计算\1 并行计算技术基础\SourceCode\MyImageProcessor\MyImageProcessor\bin\Release\MyImageProcessor.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\3 闯荡面向对象“江湖”\3 充分挖掘计算机的性能\6 并行计算\1 并行计算技术基础\SourceCode\MyImageProcessor\MyImageProcessor\bin\Release\MyImageProcessor.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\3 闯荡面向对象“江湖”\3 充分挖掘计算机的性能\6 并行计算\1 并行计算技术基础\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\ResolveAssemblyReference.cache
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\3 闯荡面向对象“江湖”\3 充分挖掘计算机的性能\6 并行计算\1 并行计算技术基础\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\winMain.baml
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\3 闯荡面向对象“江湖”\3 充分挖掘计算机的性能\6 并行计算\1 并行计算技术基础\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\winMain.g.cs
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\3 闯荡面向对象“江湖”\3 充分挖掘计算机的性能\6 并行计算\1 并行计算技术基础\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\App.g.cs
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\3 闯荡面向对象“江湖”\3 充分挖掘计算机的性能\6 并行计算\1 并行计算技术基础\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor_MarkupCompile.cache
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\3 闯荡面向对象“江湖”\3 充分挖掘计算机的性能\6 并行计算\1 并行计算技术基础\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor.g.resources
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\3 闯荡面向对象“江湖”\3 充分挖掘计算机的性能\6 并行计算\1 并行计算技术基础\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\MyImageProcessor.Properties.Resources.resources
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\3 闯荡面向对象“江湖”\3 充分挖掘计算机的性能\6 并行计算\1 并行计算技术基础\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\GenerateResource.read.1.tlog
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\3 闯荡面向对象“江湖”\3 充分挖掘计算机的性能\6 并行计算\1 并行计算技术基础\SourceCode\MyImageProcessor\MyImageProcessor\obj\x86\Release\GenerateResource.write.1.tlog

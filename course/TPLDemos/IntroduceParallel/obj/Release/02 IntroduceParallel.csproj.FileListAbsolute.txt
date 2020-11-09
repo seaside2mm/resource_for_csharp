@@ -1,0 +1,8 @@
+E:\TPLDemos\IntroduceParallel\bin\Release\IntroduceParallel.exe.config
+E:\TPLDemos\IntroduceParallel\bin\Release\IntroduceParallel.exe
+E:\TPLDemos\IntroduceParallel\bin\Release\IntroduceParallel.pdb
+E:\TPLDemos\IntroduceParallel\bin\Release\StudyHelper.dll
+E:\TPLDemos\IntroduceParallel\bin\Release\StudyHelper.pdb
+E:\TPLDemos\IntroduceParallel\obj\Release\02 IntroduceParallel.csprojResolveAssemblyReference.cache
+E:\TPLDemos\IntroduceParallel\obj\Release\IntroduceParallel.exe
+E:\TPLDemos\IntroduceParallel\obj\Release\IntroduceParallel.pdb

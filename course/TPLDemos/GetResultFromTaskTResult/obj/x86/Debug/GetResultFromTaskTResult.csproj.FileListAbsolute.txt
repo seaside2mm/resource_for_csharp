@@ -1,0 +1,10 @@
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\GetResultFromTaskTResult\bin\Debug\GetResultFromTaskTResult.exe
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\GetResultFromTaskTResult\bin\Debug\GetResultFromTaskTResult.pdb
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\GetResultFromTaskTResult\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\GetResultFromTaskTResult\obj\x86\Debug\GetResultFromTaskTResult.exe
+C:\jxl\MyBook\面向对象的艺术\第4篇 进程、线程技术与并行计算\第19章 并行计算\SourceCode\TPLExample\GetResultFromTaskTResult\obj\x86\Debug\GetResultFromTaskTResult.pdb
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.3\GetResultFromTaskTResult\obj\x86\Debug\GetResultFromTaskTResult.exe
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.3\GetResultFromTaskTResult\obj\x86\Debug\GetResultFromTaskTResult.pdb
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.3\GetResultFromTaskTResult\bin\Debug\GetResultFromTaskTResult.exe
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.3\GetResultFromTaskTResult\bin\Debug\GetResultFromTaskTResult.pdb
+C:\jxl\MyBook\入室登堂\第4篇 进程、线程技术与并行计算\第23章 并行计算技术基础\SourceCode\23.3\GetResultFromTaskTResult\obj\x86\Debug\ResolveAssemblyReference.cache

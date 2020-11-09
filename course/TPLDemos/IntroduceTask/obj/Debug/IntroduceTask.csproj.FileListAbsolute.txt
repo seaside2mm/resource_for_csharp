@@ -1,0 +1,14 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\IntroduceTask\bin\Debug\IntroduceTask.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\IntroduceTask\bin\Debug\IntroduceTask.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\IntroduceTask\bin\Debug\IntroduceTask.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\IntroduceTask\bin\Debug\StudyHelper.dll
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\IntroduceTask\bin\Debug\StudyHelper.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\IntroduceTask\obj\Debug\IntroduceTask.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\IntroduceTask\obj\Debug\IntroduceTask.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\IntroduceTask\obj\Debug\IntroduceTask.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 TPL与并行计算\TPLDemos\IntroduceTask\bin\Debug\IntroduceTask.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 TPL与并行计算\TPLDemos\IntroduceTask\obj\Debug\IntroduceTask.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 TPL与并行计算\TPLDemos\IntroduceTask\obj\Debug\IntroduceTask.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\IntroduceTask\bin\Debug\IntroduceTask.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\IntroduceTask\obj\Debug\IntroduceTask.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\IntroduceTask\obj\Debug\IntroduceTask.pdb

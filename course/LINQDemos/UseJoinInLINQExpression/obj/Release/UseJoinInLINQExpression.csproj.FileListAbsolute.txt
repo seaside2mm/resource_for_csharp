@@ -1,0 +1,1 @@
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\5 LINQ基础\SourceCode\UseJoinInLINQExpression\UseJoinInLINQExpression\obj\Release\ResolveAssemblyReference.cache

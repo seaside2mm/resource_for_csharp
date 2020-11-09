@@ -1,0 +1,5 @@
+E:\TPLDemos\GetResultFromTaskTResult\bin\Debug\GetResultFromTaskTResult.exe
+E:\TPLDemos\GetResultFromTaskTResult\bin\Debug\GetResultFromTaskTResult.pdb
+E:\TPLDemos\GetResultFromTaskTResult\obj\x86\Debug\07 GetResultFromTaskTResult.csprojResolveAssemblyReference.cache
+E:\TPLDemos\GetResultFromTaskTResult\obj\x86\Debug\GetResultFromTaskTResult.exe
+E:\TPLDemos\GetResultFromTaskTResult\obj\x86\Debug\GetResultFromTaskTResult.pdb

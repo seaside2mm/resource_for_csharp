@@ -1,0 +1,22 @@
+E:\AsyncDemos\IntroduceAsync\bin\Debug\IntroduceAsync.exe.config
+E:\AsyncDemos\IntroduceAsync\bin\Debug\IntroduceAsync.exe
+E:\AsyncDemos\IntroduceAsync\bin\Debug\IntroduceAsync.pdb
+E:\AsyncDemos\IntroduceAsync\obj\Debug\IntroduceAsync.exe
+E:\AsyncDemos\IntroduceAsync\obj\Debug\IntroduceAsync.pdb
+E:\AsyncDemos\IntroduceAsync\obj\Debug\IntroduceAsync.csprojResolveAssemblyReference.cache
+C:\Users\jerry\Desktop\AsyncDemos\IntroduceAsync\bin\Debug\IntroduceAsync.exe.config
+C:\Users\jerry\Desktop\AsyncDemos\IntroduceAsync\obj\Debug\IntroduceAsync.exe
+C:\Users\jerry\Desktop\AsyncDemos\IntroduceAsync\obj\Debug\IntroduceAsync.pdb
+C:\Users\jerry\Desktop\AsyncDemos\IntroduceAsync\bin\Debug\IntroduceAsync.exe
+C:\Users\jerry\Desktop\AsyncDemos\IntroduceAsync\bin\Debug\IntroduceAsync.pdb
+C:\Users\jerry\Desktop\AsyncDemos\IntroduceAsync\obj\Debug\IntroduceAsync.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\第二系列\异步编程\AsyncDemos\IntroduceAsync\bin\Debug\IntroduceAsync.exe.config
+E:\MOOC\录课视频相关文件\第二系列\异步编程\AsyncDemos\IntroduceAsync\bin\Debug\IntroduceAsync.exe
+E:\MOOC\录课视频相关文件\第二系列\异步编程\AsyncDemos\IntroduceAsync\bin\Debug\IntroduceAsync.pdb
+E:\MOOC\录课视频相关文件\第二系列\异步编程\AsyncDemos\IntroduceAsync\obj\Debug\IntroduceAsync.exe
+E:\MOOC\录课视频相关文件\第二系列\异步编程\AsyncDemos\IntroduceAsync\obj\Debug\IntroduceAsync.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsync\bin\Debug\IntroduceAsync.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsync\bin\Debug\IntroduceAsync.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsync\bin\Debug\IntroduceAsync.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsync\obj\Debug\IntroduceAsync.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsync\obj\Debug\IntroduceAsync.pdb

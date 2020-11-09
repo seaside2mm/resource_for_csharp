@@ -1,0 +1,30 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\DownloadWebImages\bin\Debug\DownloadWebImages.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\DownloadWebImages\bin\Debug\DownloadWebImages.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\DownloadWebImages\bin\Debug\DownloadWebImages.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\DownloadWebImages\obj\Debug\MainWindow.baml
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\DownloadWebImages\obj\Debug\MainWindow.g.cs
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\DownloadWebImages\obj\Debug\App.g.cs
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\DownloadWebImages\obj\Debug\DownloadWebImages_MarkupCompile.cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\DownloadWebImages\obj\Debug\DownloadWebImages.g.resources
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\DownloadWebImages\obj\Debug\DownloadWebImages.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\DownloadWebImages\obj\Debug\10 DownloadWebImages.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\DownloadWebImages\obj\Debug\DownloadWebImages.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\DownloadWebImages\obj\Debug\DownloadWebImages.pdb
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\DownloadWebImages\bin\Debug\DownloadWebImages.exe.config
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\DownloadWebImages\obj\Debug\DownloadWebImages.exe
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\DownloadWebImages\obj\Debug\DownloadWebImages.pdb
+E:\TPLDemos\DownloadWebImages\bin\Debug\DownloadWebImages.exe.config
+E:\TPLDemos\DownloadWebImages\obj\Debug\DownloadWebImages.exe
+E:\TPLDemos\DownloadWebImages\obj\Debug\DownloadWebImages.pdb
+E:\TPLDemos\DownloadWebImages\bin\Debug\DownloadWebImages.exe
+E:\TPLDemos\DownloadWebImages\bin\Debug\DownloadWebImages.pdb
+E:\TPLDemos\DownloadWebImages\obj\Debug\MainWindow.baml
+E:\TPLDemos\DownloadWebImages\obj\Debug\MainWindow.g.cs
+E:\TPLDemos\DownloadWebImages\obj\Debug\App.g.cs
+E:\TPLDemos\DownloadWebImages\obj\Debug\DownloadWebImages_MarkupCompile.cache
+E:\TPLDemos\DownloadWebImages\obj\Debug\DownloadWebImages.g.resources
+E:\TPLDemos\DownloadWebImages\obj\Debug\DownloadWebImages.Properties.Resources.resources
+E:\TPLDemos\DownloadWebImages\obj\Debug\10 DownloadWebImages.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\第二系列\第1单元_让一切并行起来\3 TPL与并行计算\TPLDemos\DownloadWebImages\bin\Debug\DownloadWebImages.exe.config
+E:\MOOC\录课视频相关文件\第二系列\第1单元_让一切并行起来\3 TPL与并行计算\TPLDemos\DownloadWebImages\obj\Debug\DownloadWebImages.exe
+E:\MOOC\录课视频相关文件\第二系列\第1单元_让一切并行起来\3 TPL与并行计算\TPLDemos\DownloadWebImages\obj\Debug\DownloadWebImages.pdb

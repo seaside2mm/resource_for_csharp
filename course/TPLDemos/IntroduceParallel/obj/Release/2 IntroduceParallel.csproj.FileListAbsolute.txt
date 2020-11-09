@@ -1,0 +1,1 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\IntroduceParallel\bin\Release\IntroduceParallel.exe.config

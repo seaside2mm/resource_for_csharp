@@ -1,0 +1,5 @@
+E:\DelegateDemos\UseAnonymousMethod\bin\Debug\UseAnonymousMethod.exe.config
+E:\DelegateDemos\UseAnonymousMethod\bin\Debug\UseAnonymousMethod.exe
+E:\DelegateDemos\UseAnonymousMethod\bin\Debug\UseAnonymousMethod.pdb
+E:\DelegateDemos\UseAnonymousMethod\obj\Debug\UseAnonymousMethod.exe
+E:\DelegateDemos\UseAnonymousMethod\obj\Debug\UseAnonymousMethod.pdb

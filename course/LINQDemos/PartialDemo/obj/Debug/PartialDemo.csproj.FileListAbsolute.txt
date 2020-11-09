@@ -1,0 +1,9 @@
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\PartialDemo\bin\Debug\PartialDemo.exe.config
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\PartialDemo\bin\Debug\PartialDemo.exe
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\PartialDemo\bin\Debug\PartialDemo.pdb
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\PartialDemo\obj\Debug\PartialDemo.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\PartialDemo\obj\Debug\PartialDemo.frmMain.resources
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\PartialDemo\obj\Debug\PartialDemo.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\PartialDemo\obj\Debug\PartialDemo.csproj.GenerateResource.Cache
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\PartialDemo\obj\Debug\PartialDemo.exe
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\PartialDemo\obj\Debug\PartialDemo.pdb

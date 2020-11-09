@@ -1,0 +1,8 @@
+E:\TPLDemos\IntroduceTask\bin\Release\IntroduceTask.exe.config
+E:\TPLDemos\IntroduceTask\bin\Release\IntroduceTask.exe
+E:\TPLDemos\IntroduceTask\bin\Release\IntroduceTask.pdb
+E:\TPLDemos\IntroduceTask\bin\Release\StudyHelper.dll
+E:\TPLDemos\IntroduceTask\bin\Release\StudyHelper.pdb
+E:\TPLDemos\IntroduceTask\obj\Release\05 IntroduceTask.csprojResolveAssemblyReference.cache
+E:\TPLDemos\IntroduceTask\obj\Release\IntroduceTask.exe
+E:\TPLDemos\IntroduceTask\obj\Release\IntroduceTask.pdb

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="UseCustomEvent.MyClickEventArgs">
+    <Position X="0.5" Y="2.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyCustomButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.EventArgs">
+    <Position X="1" Y="0.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UseCustomEvent.MyCustomButtonUseGenericDelegate">
+    <Position X="4" Y="2.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAACCAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyCustomButtonUseGenericDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="UseCustomEvent.MyClickEventDelegate" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyCustomButton.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Calibri" Size="10" />
+</ClassDiagram>

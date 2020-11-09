@@ -1,0 +1,6 @@
+G:\正在工作\TPL基础\TPLDemos\CancelCopyFile\bin\Debug\CancelCopyFile.exe.config
+G:\正在工作\TPL基础\TPLDemos\CancelCopyFile\bin\Debug\CancelCopyFile.exe
+G:\正在工作\TPL基础\TPLDemos\CancelCopyFile\bin\Debug\CancelCopyFile.pdb
+G:\正在工作\TPL基础\TPLDemos\CancelCopyFile\obj\Debug\CancelCopyFile.csprojResolveAssemblyReference.cache
+G:\正在工作\TPL基础\TPLDemos\CancelCopyFile\obj\Debug\CancelCopyFile.exe
+G:\正在工作\TPL基础\TPLDemos\CancelCopyFile\obj\Debug\CancelCopyFile.pdb

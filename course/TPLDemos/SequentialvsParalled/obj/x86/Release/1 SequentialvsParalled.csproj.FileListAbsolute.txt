@@ -1,0 +1,5 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\SequentialvsParalled\bin\Release\SequentialvsParalled.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\SequentialvsParalled\bin\Release\SequentialvsParalled.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\SequentialvsParalled\bin\Release\SequentialvsParalled.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\SequentialvsParalled\obj\x86\Release\SequentialvsParalled.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 TPL与并行计算\3 TPL入门\TPLDemos\SequentialvsParalled\obj\x86\Release\SequentialvsParalled.pdb

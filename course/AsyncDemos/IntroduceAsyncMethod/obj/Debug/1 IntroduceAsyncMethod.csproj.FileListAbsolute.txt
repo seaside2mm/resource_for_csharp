@@ -1,0 +1,16 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsyncMethod\bin\Debug\IntroduceAsyncMethod.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsyncMethod\bin\Debug\IntroduceAsyncMethod.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsyncMethod\bin\Debug\IntroduceAsyncMethod.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsyncMethod\bin\Debug\StudyHelper.dll
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsyncMethod\obj\Debug\1 IntroduceAsyncMethod.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsyncMethod\obj\Debug\IntroduceAsyncMethod.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsyncMethod\obj\Debug\IntroduceAsyncMethod.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsyncMethod\bin\Debug\IntroduceAsyncMethod.exe.config
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsyncMethod\obj\Debug\IntroduceAsyncMethod.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\3 异步编程\AsyncDemos\IntroduceAsyncMethod\obj\Debug\IntroduceAsyncMethod.pdb
+E:\AsyncDemos\IntroduceAsyncMethod\obj\Debug\1 IntroduceAsyncMethod.csprojResolveAssemblyReference.cache
+E:\AsyncDemos\IntroduceAsyncMethod\obj\Debug\IntroduceAsyncMethod.exe
+E:\AsyncDemos\IntroduceAsyncMethod\obj\Debug\IntroduceAsyncMethod.pdb
+E:\AsyncDemos\IntroduceAsyncMethod\bin\Debug\IntroduceAsyncMethod.exe.config
+E:\AsyncDemos\IntroduceAsyncMethod\bin\Debug\IntroduceAsyncMethod.exe
+E:\AsyncDemos\IntroduceAsyncMethod\bin\Debug\IntroduceAsyncMethod.pdb

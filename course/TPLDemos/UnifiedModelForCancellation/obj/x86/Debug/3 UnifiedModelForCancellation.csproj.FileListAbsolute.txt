@@ -1,0 +1,13 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\UnifiedModelForCancellation\bin\Debug\UnifiedModelForCancellation.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\UnifiedModelForCancellation\obj\x86\Debug\3 UnifiedModelForCancellation.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\UnifiedModelForCancellation\obj\x86\Debug\winMain.baml
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\UnifiedModelForCancellation\obj\x86\Debug\winMain.g.cs
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\UnifiedModelForCancellation\obj\x86\Debug\App.g.cs
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation_MarkupCompile.cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.g.resources
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\UnifiedModelForCancellation\obj\x86\Debug\UnifiedModelForCancellation.Properties.Resources.resources
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\2 多线程进阶\TPLDemos\UnifiedModelForCancellation\obj\x86\Debug\3 UnifiedModelForCancellation.csproj.GenerateResource.Cache

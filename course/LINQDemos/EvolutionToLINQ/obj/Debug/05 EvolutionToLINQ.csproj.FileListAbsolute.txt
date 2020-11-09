@@ -1,0 +1,6 @@
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\EvolutionToLINQ\bin\Debug\EvolutionToLINQ.exe.config
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\EvolutionToLINQ\obj\Debug\EvolutionToLINQ.exe
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\EvolutionToLINQ\obj\Debug\EvolutionToLINQ.pdb
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\2 LINQ to Object\LINQDemos\EvolutionToLINQ\bin\Debug\EvolutionToLINQ.exe.config
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\2 LINQ to Object\LINQDemos\EvolutionToLINQ\obj\Debug\EvolutionToLINQ.exe
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\2 LINQ to Object\LINQDemos\EvolutionToLINQ\obj\Debug\EvolutionToLINQ.pdb

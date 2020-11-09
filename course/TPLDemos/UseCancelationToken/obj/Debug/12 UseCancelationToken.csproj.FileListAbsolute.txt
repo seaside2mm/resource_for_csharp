@@ -1,0 +1,11 @@
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\UseCancelationToken\bin\Debug\UseCancelationToken.exe.config
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\UseCancelationToken\obj\Debug\UseCancelationToken.exe
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\UseCancelationToken\obj\Debug\UseCancelationToken.pdb
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\UseCancelationToken\bin\Debug\UseCancelationToken.exe
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\UseCancelationToken\bin\Debug\UseCancelationToken.pdb
+C:\MOOC\第二系列\1 dotNet核心技术选讲\3 TPL与并行计算\TPLDemos\UseCancelationToken\obj\Debug\12 UseCancelationToken.csprojResolveAssemblyReference.cache
+E:\TPLDemos\UseCancelationToken\bin\Debug\UseCancelationToken.exe.config
+E:\TPLDemos\UseCancelationToken\obj\Debug\UseCancelationToken.exe
+E:\TPLDemos\UseCancelationToken\obj\Debug\UseCancelationToken.pdb
+E:\TPLDemos\UseCancelationToken\bin\Debug\UseCancelationToken.exe
+E:\TPLDemos\UseCancelationToken\bin\Debug\UseCancelationToken.pdb
